@@ -24,3 +24,9 @@ h2{
     color: aliceblue;
     text-align: center;
 }
+
+section{
+    height: 300px;
+    width: 100%;
+    background-color: aqua;
+}
